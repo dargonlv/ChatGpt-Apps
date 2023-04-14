@@ -1,5 +1,5 @@
 {
     "token": "NDIzMjA2NzUyOTI2ODI2NTA4.GmyTJN.VeB0PSak36rzpV77rdhn1Wb43nKxsg1ogc-f0s",
-    "key": "ozWtwiVLHAa56XBAvI2XT3BlbkFJm5Cgje0VSQKfmB9J25hB",
+    "key": "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",
     "prefix: "$"
 }
